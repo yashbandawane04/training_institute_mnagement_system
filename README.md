@@ -91,16 +91,6 @@ This project was developed during a **3-month Full Stack Web Development Interns
 
 ---
 
-## Author
-
-**Yash Bandawane**
-
-Diploma in Computer Engineering
-(Completed – Result Awaited)
-
-GitHub:
-https://github.com/yashbandawane04
-
 ## Public Website Interface
 
 ### Homepage
@@ -129,3 +119,50 @@ https://github.com/yashbandawane04
 
 ![Courses Bottom](screenshots/courses-bottom.png)
 
+## Installation & Setup
+
+1. Clone the repository
+
+```
+git clone https://github.com/yashbandawane04/training_institute_management_system.git
+```
+
+2. Move project folder to XAMPP htdocs directory
+
+```
+C:\xampp\htdocs\
+```
+
+3. Import the database
+
+Open **phpMyAdmin**
+
+Create database:
+
+```
+mh_yashwardhan_institute
+```
+
+Import:
+
+```
+mh_yashwardhan_institute.sql
+```
+
+4. Start Apache and MySQL from XAMPP
+
+5. Open browser and run:
+
+```
+http://localhost/training_institute_management_system
+```
+
+## Author
+
+**Yash Bandawane**
+
+Diploma in Computer Engineering
+(Completed – Result Awaited)
+
+GitHub:
+https://github.com/yashbandawane04
