@@ -1,6 +1,8 @@
 # Training Institute Management System
 
-A full-stack web-based **Training Institute Management System** developed using **PHP, MySQL, JavaScript, Bootstrap 5, and AdminLTE Dashboard** during a **3-month Full Stack Web Development Internship** as part of the **Diploma in Computer Engineering** curriculum.
+A full-stack web-based Training Institute Management System developed using PHP, MySQL, JavaScript, Bootstrap 5, and AdminLTE Dashboard during a 3-month Full Stack Web Development Internship as part of the Diploma in Computer Engineering curriculum.
+
+The system includes both an Admin Panel for managing institute operations and a Public Website Interface for displaying courses, institute information, and student interaction features.
 
 ---
 
@@ -127,4 +129,3 @@ https://github.com/yashbandawane04
 
 ![Courses Bottom](screenshots/courses-bottom.png)
 
-A complete Training Institute Management System with Admin Panel and Public Website interface developed using PHP, MySQL, Bootstrap, JavaScript, and AdminLTE during Web Development Internship.
