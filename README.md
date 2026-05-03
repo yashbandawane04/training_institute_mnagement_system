@@ -127,3 +127,4 @@ https://github.com/yashbandawane04
 
 ![Courses Bottom](screenshots/courses-bottom.png)
 
+A complete Training Institute Management System with Admin Panel and Public Website interface developed using PHP, MySQL, Bootstrap, JavaScript, and AdminLTE during Web Development Internship.
