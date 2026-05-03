@@ -98,3 +98,32 @@ Diploma in Computer Engineering
 
 GitHub:
 https://github.com/yashbandawane04
+
+## Public Website Interface
+
+### Homepage
+
+![Homepage](screenshots/homepage.png)
+
+### Institute Gallery
+
+![Gallery](screenshots/gallery.png)
+
+## Courses Offered
+
+### Programming Courses
+
+![Courses Top](screenshots/courses-top.png)
+
+### Certification & Office Courses
+
+![Courses Middle](screenshots/courses-middle.png)
+
+### Additional Technical Courses
+
+![Courses Medium](screenshots/courses-medium.png)
+
+### Multimedia & Security Courses
+
+![Courses Bottom](screenshots/courses-bottom.png)
+
