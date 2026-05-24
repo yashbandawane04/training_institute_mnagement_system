@@ -154,45 +154,18 @@ This project was developed during a **3-Month Full Stack Web Development Interns
 
 ---
 
-# Public Website Interface
+# PhpMyAdmin Interface
 
-## Homepage
+## Database Homepage
 
-![Homepage](screenshots/homepage.png)
-
----
-
-## Institute Gallery
-
-![Gallery](screenshots/gallery.png)
+![Database Homepage](screenshots/Screenshot%20(540).png)
 
 ---
 
-# Courses Offered
-
-## Programming Courses
-
-![Courses Top](screenshots/courses-top.png)
-
 ---
 
-## Certification & Office Courses
 
-![Courses Middle](screenshots/courses-middle.png)
 
----
-
-## Additional Technical Courses
-
-![Courses Medium](screenshots/courses-medium.png)
-
----
-
-## Multimedia & Security Courses
-
-![Courses Bottom](screenshots/courses-bottom.png)
-
----
 
 # Installation & Setup Guide
 
