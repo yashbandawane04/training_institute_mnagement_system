@@ -4,6 +4,9 @@ A full-stack web-based **Training Institute Management System** developed using 
 
 The project includes both an **Admin Management Panel** and a **Public Website Interface** for managing institute operations, student records, trainer information, attendance, payments, enquiries, and course management.
 
+🌐 Live Demo:
+https://skillforgeinstitute.42web.io/adminpanel/index.html
+
 ---
 
 # Project Features
